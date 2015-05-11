@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaTest", "LambdaTest\LambdaTest.csproj", "{2DDE746C-34F7-4494-A4EE-9080C0F49967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{E6A82FEA-4E2E-4DD3-A372-13AAC5816D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DDE746C-34F7-4494-A4EE-9080C0F49967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDE746C-34F7-4494-A4EE-9080C0F49967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDE746C-34F7-4494-A4EE-9080C0F49967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDE746C-34F7-4494-A4EE-9080C0F49967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A82FEA-4E2E-4DD3-A372-13AAC5816D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A82FEA-4E2E-4DD3-A372-13AAC5816D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A82FEA-4E2E-4DD3-A372-13AAC5816D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A82FEA-4E2E-4DD3-A372-13AAC5816D85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

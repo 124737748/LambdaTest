@@ -1,0 +1,6 @@
+E:\开发工具\学习\LambdaTest\LambdaTest\bin\Debug\LambdaTest.exe.config
+E:\开发工具\学习\LambdaTest\LambdaTest\bin\Debug\LambdaTest.exe
+E:\开发工具\学习\LambdaTest\LambdaTest\bin\Debug\LambdaTest.pdb
+E:\开发工具\学习\LambdaTest\LambdaTest\obj\Debug\LambdaTest.csprojResolveAssemblyReference.cache
+E:\开发工具\学习\LambdaTest\LambdaTest\obj\Debug\LambdaTest.exe
+E:\开发工具\学习\LambdaTest\LambdaTest\obj\Debug\LambdaTest.pdb
